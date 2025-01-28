@@ -2,9 +2,6 @@
 <h3 align="center">"Passionate Frontend Developer crafting intuitive digital experiences."</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mandipstha-17&label=Profile%20views&color=0e75b6&style=flat" alt="mandipstha-17" /> </p>
-
 - 🌱 I’m currently learning **React**
 
 - 📫 How to reach me **mandeeparha123@gmail.com**
