@@ -2,7 +2,7 @@
 <h3 align="center">"Passionate Frontend Developer crafting intuitive digital experiences."</h3>
 <img align="right" alt="Coding" width="400" src="https://i.gifer.com/5eKX.gif">
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Express.js**
 
 - 📫 How to reach me **mandeeparha123@gmail.com**
 
